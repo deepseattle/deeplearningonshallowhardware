@@ -10,8 +10,10 @@ The pre-trained models weights are from:
 
 Load VGG weigths from .mat file
 http://www.vlfeat.org/matconvnet/pretrained/#face-recognition
+
 Download from console with :
 wget http://www.vlfeat.org/matconvnet/models/vgg-face.mat
+
 Alternatively :
 wget http://www.robots.ox.ac.uk/~vgg/software/vgg_face/src/vgg_face_matconvnet.tar.gz
 
