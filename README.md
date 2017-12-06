@@ -5,4 +5,4 @@ Code and information repo for ["Deep Learning on Shallow Hardware Project"](http
 
 Main.py is almost identical to the code from https://github.com/mzaradzki/neuralnets/tree/master/vgg_faces_keras to test a pretrained celebrity facial recognition model
 
-To find the closes celebrity match to a user supplied image, updated the path in line 222
+To find the closest celebrity match to a user supplied image, updated the path in line 222
